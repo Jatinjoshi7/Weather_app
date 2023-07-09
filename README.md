@@ -2,7 +2,8 @@
 
 ## Website Link
 https://your-city-weather.netlify.app
-
+## Tech Stack
+#### HTML | CSS | JAVASCRIPT
 ## Description
 #### User-friendly interface with a clean and modern design
 #### Input field to select the desired city
